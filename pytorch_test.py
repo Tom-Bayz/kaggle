@@ -7,3 +7,7 @@ from torch.autograd import Variable
 print(torchbision)
 
 
+
+
+
+asdfadsf #test
