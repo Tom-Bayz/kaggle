@@ -1,0 +1,9 @@
+######################
+2020.01.16 Thu
+######################
+> TOPIC: 自然言語処理
+tweetの文章から本当に災害が起こっているのか, そうでないのかを判定するコンペ
+https://www.kaggle.com/c/nlp-getting-started
+
+以下のNoteを読んで, TF-IDFとn-gramをベースにした特徴量を作成や, WordNetLemmatizerなどの前処理などを勉強. 
+https://www.kaggle.com/slatawa/tfidf-implementation-to-get-80-accuracy
