@@ -1,4 +1,17 @@
 ######################
+2020.01.30 Thu
+######################
+> TOPIC: PyTorch
+
+以下のサイトを参考に, PyTorchによるNNの実装方法を学んだ
+https://qiita.com/north_redwing/items/30f9619f0ee727875250
+
+またCNNの理解を深め, フィルターの性質などに関して議論した
+
+次回はWord Vectorなどで以下のコンペに対する精度検証を行う予定
+https://www.kaggle.com/c/nlp-getting-started
+
+######################
 2020.01.16 Thu
 ######################
 > TOPIC: 自然言語処理
