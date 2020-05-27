@@ -2,7 +2,6 @@
 Kaggle update log
 written by T.Yonezu
 #######################
-
 - Predict_Future_Sales:
 https://github.com/Tlab2019/Predict_Future_Sales
 
