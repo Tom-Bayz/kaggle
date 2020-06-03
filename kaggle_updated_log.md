@@ -12,3 +12,4 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 
 - ('20/05/31) added new notebook
 - ('20/05/31) added notebook about feature_v1,model_v1
+- ('20/06/04) delete some data and update notebooks
