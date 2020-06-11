@@ -15,3 +15,4 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 - ('20/06/04) delete some data and update notebooks
 - ('20/06/07) add python code which transform point-prediction to uncertainty-prediction and some submission file
 - ('20/06/08) updated python code
+- ('20/06/11) add notebook that calcurates aggregated training data
