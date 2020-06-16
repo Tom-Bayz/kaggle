@@ -17,3 +17,4 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 - ('20/06/08) updated python code
 - ('20/06/11) add notebook that calcurates aggregated training data
 - ('20/06/14) Repository switched "privatemode" until competition over 
+- ('20/06/17) add uncertainty predict code by Prophet and GaussianDist
