@@ -20,3 +20,4 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 - ('20/06/17) add uncertainty predict code by Prophet and GaussianDist
 - ('20/06/20) add feature generator v1,v2!
 - ('20/06/21) add trainer and predictor with XGBoost Regression code
+- ('20/06/24) add RightGBM quantile Regression and feature generator v3
