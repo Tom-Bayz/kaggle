@@ -16,8 +16,11 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 - ('20/06/07) add python code which transform point-prediction to uncertainty-prediction and some submission file
 - ('20/06/08) updated python code
 - ('20/06/11) add notebook that calcurates aggregated training data
-- ('20/06/14) Repository switched "privatemode" until competition over 
+- ('20/06/14) Repository was switched into "private mode" until competition over 
 - ('20/06/17) add uncertainty predict code by Prophet and GaussianDist
 - ('20/06/20) add feature generator v1,v2!
 - ('20/06/21) add trainer and predictor with XGBoost Regression code
 - ('20/06/24) add LightGBM quantile Regression and feature generator v3
+- ('20/06/30) add LightGBM Regression code and update feature_v3
+- ('20/07/01) competition over and Repository was switched into "public mode"
+
