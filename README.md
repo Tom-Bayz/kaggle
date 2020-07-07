@@ -24,3 +24,7 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 - ('20/06/30) add LightGBM Regression code and update feature_v3
 - ('20/07/01) competition over and Repository was switched into "public mode"
 
+### **[Cornell Birdcall Identification]**
+URL: https://github.com/Tlab2019/Cornell_Birdcall_Identification
+
+- ('20/07/07) get started new competition!
