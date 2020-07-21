@@ -28,4 +28,5 @@ URL: https://github.com/Tlab2019/M5_Forecasting-Uncertainty
 URL: https://github.com/Tlab2019/Cornell_Birdcall_Identification
 
 - ('20/07/07) get started new competition!
-- ('20/07/18) add script that transform mp3 files to melcepstrum matrix
+- ('20/07/18) added script that transform mp3 files to melcepstrum matrix
+- ('20/07/21) added script that fine-tuning Resnet
