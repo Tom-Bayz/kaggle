@@ -30,3 +30,8 @@ URL: https://github.com/Tlab2019/Cornell_Birdcall_Identification
 - ('20/07/07) get started new competition!
 - ('20/07/18) added script that transform mp3 files to melcepstrum matrix
 - ('20/07/21) added script for fine-tunining Resnet
+
+### **[Mechanisms of Action (MoA) Prediction]**
+URL: https://github.com/Tlab2019/Mechanisms_of_Action_Prediction
+
+- ('20/10/14) get started new competition! and added simple feature maker (v1)
