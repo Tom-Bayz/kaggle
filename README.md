@@ -35,3 +35,6 @@ URL: https://github.com/Tlab2019/Cornell_Birdcall_Identification
 URL: https://github.com/Tlab2019/Mechanisms_of_Action_Prediction
 
 - ('20/10/14) get started new competition! and added simple feature maker (v1)
+- ('20/10/15) added XGBoost model with featureV1
+- ('20/10/20) added L1-penalized LogisticRegression model with featureV1
+
